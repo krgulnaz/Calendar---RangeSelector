@@ -1,0 +1,42 @@
+11:41:32.4698 Debug *********************************************
+11:41:32.4698 Debug this.Size: {Width=250, Height=22}
+11:41:32.4698 Debug this.startLabel.Location: {X=61,Y=-1}
+11:41:32.4698 Debug this.endLabel.Location: {X=126,Y=-1}
+11:41:32.4698 Debug *********************************************
+
+11:50:26.6613 Debug *********************************************
+11:50:26.6613 Debug this.Size: {Width=250, Height=22}
+11:50:26.6613 Debug this.startLabel.Location: {X=61,Y=-1}
+11:50:26.6613 Debug this.endLabel.Location: {X=126,Y=-1}
+11:50:26.6613 Debug *********************************************
+
+11:53:27.9725 Debug *********************************************
+11:53:27.9725 Debug this.Size: {Width=250, Height=22}
+11:53:27.9725 Debug this.startLabel.Location: {X=61,Y=-1}
+11:53:27.9725 Debug this.endLabel.Location: {X=126,Y=-1}
+11:53:27.9725 Debug *********************************************
+
+13:16:46.0948 Debug *********************************************
+13:16:46.0948 Debug this.Size: {Width=250, Height=22}
+13:16:46.0948 Debug this.startLabel.Location: {X=61,Y=-1}
+13:16:46.0948 Debug this.endLabel.Location: {X=126,Y=-1}
+13:16:46.0948 Debug *********************************************
+
+13:16:46.1389 Debug *********************************************
+13:16:46.1389 Debug this.Size: {Width=130, Height=22}
+13:16:46.1389 Debug this.startLabel.Location: {X=1,Y=-1}
+13:16:46.1389 Debug this.endLabel.Location: {X=66,Y=-1}
+13:16:46.1389 Debug *********************************************
+
+13:17:07.1839 Debug *********************************************
+13:17:07.1879 Debug this.Size: {Width=250, Height=22}
+13:17:07.1879 Debug this.startLabel.Location: {X=61,Y=-1}
+13:17:07.1879 Debug this.endLabel.Location: {X=126,Y=-1}
+13:17:07.1879 Debug *********************************************
+
+13:17:07.2160 Debug *********************************************
+13:17:07.2160 Debug this.Size: {Width=130, Height=22}
+13:17:07.2160 Debug this.startLabel.Location: {X=1,Y=-1}
+13:17:07.2160 Debug this.endLabel.Location: {X=66,Y=-1}
+13:17:07.2160 Debug *********************************************
+

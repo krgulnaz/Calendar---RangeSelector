@@ -1,0 +1,54 @@
+09:09:36.6632 Debug size before if: {Width=173, Height=150}
+09:09:36.6632 Debug *********************************************
+09:09:36.6632 Debug this.Size: {Width=173, Height=22}
+09:09:36.6632 Debug this.startLabel.Location: {X=1,Y=-2}
+09:09:36.6632 Debug this.endLabel.Location: {X=87,Y=-2}
+09:09:36.6632 Debug *********************************************
+
+09:09:36.6632 Debug size after if: {Width=173, Height=22}
+09:09:36.6632 Debug *********************************************
+09:09:36.6632 Debug this.Size: {Width=173, Height=22}
+09:09:36.6632 Debug this.startLabel.Location: {X=1,Y=-2}
+09:09:36.6632 Debug this.endLabel.Location: {X=87,Y=-2}
+09:09:36.6632 Debug *********************************************
+
+09:09:36.6632 Debug size before if: {Width=130, Height=18}
+09:09:36.6632 Debug *********************************************
+09:09:36.6632 Debug this.Size: {Width=130, Height=22}
+09:09:36.6632 Debug this.startLabel.Location: {X=-20,Y=-2}
+09:09:36.6632 Debug this.endLabel.Location: {X=66,Y=-2}
+09:09:36.6632 Debug *********************************************
+
+09:09:36.6632 Debug size after if: {Width=130, Height=22}
+09:09:36.6632 Debug *********************************************
+09:09:36.6632 Debug this.Size: {Width=130, Height=22}
+09:09:36.6632 Debug this.startLabel.Location: {X=-20,Y=-2}
+09:09:36.6632 Debug this.endLabel.Location: {X=66,Y=-2}
+09:09:36.6632 Debug *********************************************
+
+09:36:18.0317 Debug *********************************************
+09:36:18.0357 Debug this.Size: {Width=130, Height=20}
+09:36:18.0357 Debug this.startLabel.Location: {X=1,Y=-1}
+09:36:18.0357 Debug this.endLabel.Location: {X=66,Y=-1}
+09:36:18.0357 Debug *********************************************
+
+09:36:18.0578 Debug size before if: {Width=130, Height=22}
+09:36:18.0578 Debug *********************************************
+09:36:18.0578 Debug this.Size: {Width=130, Height=20}
+09:36:18.0578 Debug this.startLabel.Location: {X=1,Y=-1}
+09:36:18.0578 Debug this.endLabel.Location: {X=66,Y=-1}
+09:36:18.0578 Debug *********************************************
+
+09:36:18.0578 Debug size after if: {Width=130, Height=20}
+09:36:18.0578 Debug *********************************************
+09:36:18.0578 Debug this.Size: {Width=130, Height=20}
+09:36:18.0578 Debug this.startLabel.Location: {X=1,Y=-1}
+09:36:18.0578 Debug this.endLabel.Location: {X=66,Y=-1}
+09:36:18.0578 Debug *********************************************
+
+11:10:31.7338 Debug *********************************************
+11:10:31.7388 Debug this.Size: {Width=130, Height=20}
+11:10:31.7388 Debug this.startLabel.Location: {X=1,Y=-1}
+11:10:31.7388 Debug this.endLabel.Location: {X=66,Y=-1}
+11:10:31.7388 Debug *********************************************
+
